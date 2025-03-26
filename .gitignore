@@ -1,2 +1,5 @@
 .venv
 fixed
+processed
+.env
+.DS_Store
